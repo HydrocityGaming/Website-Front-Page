@@ -1,2 +1,1 @@
-<title>Dodgy is amazing</title>
-<header>Swag</header>
+<button type="button" class="btn btn-info">Info</button>
