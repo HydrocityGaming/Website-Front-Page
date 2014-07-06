@@ -20,12 +20,17 @@
     <h1>Hello, world!</h1>
 
     <button type="button" class="btn btn-info">Info</button>
+  <p>
+    <button type="button" class="btn btn-danger">Danger</button>
+    <p>
+   <button type="button" class="btn btn-success">Success</button>
       
       
     <!-- Leave this js at the bottom -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <p>
     <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
